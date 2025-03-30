@@ -6,7 +6,7 @@
 
 # デモ
 
-* [デモ](https://ytyaru.github.io/JS.Https.Server.Python.OpenSsl.20250330110350/)
+* [デモ](https://ytyaru.github.io/Https.Server.Python.OpenSsl.20250330110350/)
 
 # 特徴
 
@@ -35,13 +35,13 @@ Linux raspberrypi 5.10.103-v8+ #1529 SMP PREEMPT Tue Mar 8 12:26:46 GMT 2022 aar
 # インストール
 
 ```sh
-git clone https://github.com/ytyaru/JS.Https.Server.Python.OpenSsl.20250330110350
+git clone https://github.com/ytyaru/Https.Server.Python.OpenSsl.20250330110350
 ```
 
 # 使い方
 
 ```sh
-cd JS.Https.Server.Python.OpenSsl.20250330110350/docs
+cd Https.Server.Python.OpenSsl.20250330110350/docs
 ./server.sh
 ```
 

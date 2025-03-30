@@ -53,6 +53,7 @@ cd Https.Server.Python.OpenSsl.20250330110350/docs
 2. `詳細設定`ボタンを押す  ![0][]
 3. `localhost にアクセスする（安全ではありません）`リンクをクリックする  ![1][]
 4. HTTPSサーバが起動し結果表示される  ![2][]
+5. サーバを終了させるには起動させた端末上で`Ctrl`+`C`キー押下する
 
 [0]:docs/asset/image/browser-0.png
 [1]:docs/asset/image/browser-1.png
